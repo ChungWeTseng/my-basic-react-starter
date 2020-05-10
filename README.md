@@ -1,0 +1,18 @@
+# Basic React App Starter
+
+Simple react starter for simple projects using parcel as bundler
+
+## Modules
+
+- parcel-bundler: Blazing fast, zero configuration web application bundler
+- react: JavaScript library for creating user interfaces. Contains only the functionality necessary to define React components.
+- react-dom: Serves as the entry point to the DOM and server renderers for React. [Renderer for Web Apps]
+- @babel/plugin-proposal-class-properties: Transforms static class properties as well as properties declared with the property initializer syntax [For Components States]
+- live-server: A simple development http server with live reload capability. [ Server for production since hot realoading is not needed like parcel server ]
+
+## Scripts
+
+- dev: Run app in development server with hot realoading capabilities
+- build: Build the bundled version of the app in the dist directory
+- start: Build and run app in a simple production server
+

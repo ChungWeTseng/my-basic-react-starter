@@ -1,0 +1,11 @@
+// Ignore cache files
+.cache/
+
+// Ignore build files
+dist/
+
+// Ignore package modules
+node_modules/
+
+// package lock
+package-lock.json
